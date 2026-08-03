@@ -1,14 +1,9 @@
-"""Print a greeting to the terminal.
-
-This first program demonstrates Python's print() function and the common
-main-function pattern used to start a program.
+"""
+Program: Hello World
+Topic: Python Basics
+Description:
+    First Python program to understand the print() function.
 """
 
-
-def main():
-    """Run the Hello, World! program."""
-    print("Hello, World!")
-
-
-if __name__ == "__main__":
-    main()
+print("Hello, World!")
+print("Welcome to Python Programming!")
